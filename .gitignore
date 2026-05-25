@@ -1,0 +1,19 @@
+# Build output
+timetable
+timetable.exe
+*.o
+*.obj
+
+# Runtime data and exports
+data/timetable.csv
+Week_*_Timetable.csv
+
+# Archives and coursework submissions
+*.zip
+*.docx
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
